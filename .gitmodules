@@ -1,0 +1,3 @@
+[submodule "Assets/shared"]
+	path = Assets/shared
+	url = https://github.com/DragonGenius/shared.git
